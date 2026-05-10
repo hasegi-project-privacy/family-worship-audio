@@ -1,7 +1,15 @@
 {
   "version": 1,
   "tracks": {
-    "preparation": [],
-    "together": []
+    "preparation": [
+      {"videoId": "yNbaMrS47Lg", "title": "주께로 나아갑니다", "durationSec": 213},
+      {"videoId": "9sD9s7CMFhI", "title": "주의 손 안에", "durationSec": 355},
+      {"videoId": "Roo0GpCtRWY", "title": "주의 품 안에", "durationSec": 315}
+    ],
+    "together": [
+      {"videoId": "_NxAkL7xY9Q", "title": "불을 주소서", "durationSec": 334},
+      {"videoId": "hnCYMHswG6Q", "title": "주의 신실하신 날들", "durationSec": 308},
+      {"videoId": "LwpIqNaOKvo", "title": "주의 손길", "durationSec": 354}
+    ]
   }
 }

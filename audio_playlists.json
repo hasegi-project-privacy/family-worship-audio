@@ -1,15 +1,45 @@
 {
-  "version": 1,
+  "version": 2,
   "tracks": {
     "preparation": [
-      {"videoId": "yNbaMrS47Lg", "title": "주께로 나아갑니다", "durationSec": 213},
-      {"videoId": "9sD9s7CMFhI", "title": "주의 손 안에", "durationSec": 355},
-      {"videoId": "Roo0GpCtRWY", "title": "주의 품 안에", "durationSec": 315}
+      {
+        "title": "주께로 나아갑니다",
+        "videoId": "yNbaMrS47Lg",
+        "audioUrl": "https://raw.githubusercontent.com/hasegi-project-privacy/family-worship-audio/main/audio/yNbaMrS47Lg.mp3",
+        "durationSec": 208
+      },
+      {
+        "title": "주의 손 안에",
+        "videoId": "9sD9s7CMFhI",
+        "audioUrl": "https://raw.githubusercontent.com/hasegi-project-privacy/family-worship-audio/main/audio/9sD9s7CMFhI.mp3",
+        "durationSec": 350
+      },
+      {
+        "title": "주의 품 안에",
+        "videoId": "Roo0GpCtRWY",
+        "audioUrl": "https://raw.githubusercontent.com/hasegi-project-privacy/family-worship-audio/main/audio/Roo0GpCtRWY.mp3",
+        "durationSec": 310
+      }
     ],
     "together": [
-      {"videoId": "_NxAkL7xY9Q", "title": "불을 주소서", "durationSec": 334},
-      {"videoId": "hnCYMHswG6Q", "title": "주의 신실하신 날들", "durationSec": 308},
-      {"videoId": "LwpIqNaOKvo", "title": "주의 손길", "durationSec": 354}
+      {
+        "title": "불을 주소서",
+        "videoId": "_NxAkL7xY9Q",
+        "audioUrl": "https://raw.githubusercontent.com/hasegi-project-privacy/family-worship-audio/main/audio/_NxAkL7xY9Q.mp3",
+        "durationSec": 329
+      },
+      {
+        "title": "주의 신실하신 날들",
+        "videoId": "hnCYMHswG6Q",
+        "audioUrl": "https://raw.githubusercontent.com/hasegi-project-privacy/family-worship-audio/main/audio/hnCYMHswG6Q.mp3",
+        "durationSec": 303
+      },
+      {
+        "title": "주의 손길",
+        "videoId": "LwpIqNaOKvo",
+        "audioUrl": "https://raw.githubusercontent.com/hasegi-project-privacy/family-worship-audio/main/audio/LwpIqNaOKvo.mp3",
+        "durationSec": 349
+      }
     ]
   }
 }
